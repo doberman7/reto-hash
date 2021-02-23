@@ -14,8 +14,8 @@ function HomePage() {
         </Head>
         <section className={utilStyles.headingMd}>
           <p>
-            (This is a sample website - you’ll be building a site like this on{" "}
-            <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+            El reto consiste en usar REACT y ​NEXT.JS para generar una interfaz
+            CRUD (Create, Read, Update, Delete) para el recurso cronjobs
           </p>
         </section>
         <Seconds />
