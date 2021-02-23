@@ -1,5 +1,14 @@
+import Link from "next/link";
+import Seconds from "./Seconds/Seconds.js";
+
 function HomePage() {
-  return <div>Welcome to Next.js!</div>;
+  return (
+    <>
+      <p>Inicio</p>
+
+      <Seconds></Seconds>
+    </>
+  );
 }
 
 export default HomePage;
