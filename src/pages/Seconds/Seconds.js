@@ -3,8 +3,8 @@ import { Radio } from "antd";
 const Seconds = () => {
   return (
     <>
-      Seconds
-      <Radio>Radio</Radio>
+      Every second
+      <Radio />
     </>
   );
 };
